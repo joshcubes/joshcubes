@@ -10,6 +10,7 @@
 <h3 align="left">Connect with me:</h3>
 <p align="left">
 <a href="https://www.youtube.com/channel/UCqPVBajCIs94Ui1ZQ_34L1g" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/youtube.svg" alt="joshcubes" height="30" width="40" /></a>
+<a href="https://www.twitch.tv/joshcubes" target="blank"><img align="center" src="https://upload.wikimedia.org/wikipedia/commons/d/d3/Twitch_Glitch_Logo_Purple.svg" alt="joshcubes" height="30" width="40" /></a>
 </p>
 
 <h3 align="left">Languages and Tools:</h3>
