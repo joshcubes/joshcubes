@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Joshcubes</h1>
 <h3 align="center">A random guy who decided to learn to code one day. Here we are now.</h3>
 
-- 🔭 I’m currently working on **My Discord Bot**
+- 🔭 I’m currently working on **Random Projects That Pop Into My Head**
 
 - 🌱 I’m currently learning **Javascript**
 
